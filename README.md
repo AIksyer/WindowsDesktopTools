@@ -5,8 +5,8 @@
 - 直接运行
     - 切换桌面图标
 - 通过传参运行
-    - ShowWindow.exe true
-    - ShowWindow.exe false
+    - HideDesktop.exe true
+    - HideDesktop.exe false
 ### 已知BUG
 - 右键 **桌面** -> **查看** -> **显示桌面图标** 与程序逻辑 **不一致**
 部分时候需要点击两次 **显示桌面图标** 才可以切换桌面图标
